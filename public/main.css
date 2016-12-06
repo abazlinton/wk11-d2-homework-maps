@@ -1,0 +1,15 @@
+#main-map {
+  height: 700px;
+  width: 1000px;
+}
+
+#add-marker, #current-location {
+  margin: 10px;
+  padding: 5px;
+}
+
+#marker-no {
+  margin: 10px;
+  padding: 5px;
+  width: 20px;
+}
